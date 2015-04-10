@@ -1,2 +1,2 @@
 # hello-world
-My first repository on GitHub.
+My first repository created 4/10/15 on GitHub.
